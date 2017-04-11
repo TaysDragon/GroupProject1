@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"birthInt"
+			],
+			[
+				"user",
+				"userBirthday"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "detect.js",
+			"settings":
+			{
+				"buffer_size": 19583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 353.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 344.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dragon/Desktop/detect-demo/js/detect.js",
+		"/C/Users/Dragon/Desktop/Face/index.html",
+		"/C/Users/Dragon/Desktop/detect-demo/Gruntfile.js",
+		"/C/Users/Dragon/Desktop/Homework/SerialKillerCheck/testLogic/facePlusPlus/facePlusPlus.js",
+		"/C/Users/Dragon/Desktop/Homework/SerialKillerCheck/index.html",
+		"/C/Users/Dragon/Desktop/School/6.1/Zombie/zombiegame.js",
+		"/C/Users/Dragon/Desktop/School/6.2/TeamManager.js",
+		"/C/Users/Dragon/Desktop/School/6.2/2-ProgrammersWithPrompt/programmersWithPrompt-noPrototypes.js",
+		"/C/Users/Dragon/Desktop/School/6.2/2-ProgrammersWithPrompt/programmersWithPrompt.js",
+		"/C/Users/Dragon/Desktop/School/6.1/3-CharacterCreate/characterCreate-withRPG.js",
+		"/C/Users/Dragon/Desktop/School/6.1/3-CharacterCreate/characterCreate.js",
+		"/C/Users/Dragon/Desktop/School/6.2/Programmer.js",
+		"/C/Users/Dragon/Desktop/School/6.2/4-Tamagotchi/tamagotchi.js",
+		"/C/Users/Dragon/Desktop/School/6.2/4-Tamagotchi/tamagotchi-this.js",
+		"/C/Users/Dragon/Desktop/School/6.2/1-Programmers/programmers.js",
+		"/C/Users/Dragon/Desktop/School/5.4/omdb SOLVED/SOLVED/levelOneOmdbInteractive.js",
+		"/C/Users/Dragon/Desktop/School/5.4/03-ReadFile/read.js",
+		"/C/Users/Dragon/Desktop/School/5.4/appendFile.js",
+		"/C/Users/Dragon/Desktop/Homework/liri-node-app/keys.js",
+		"/C/Users/Dragon/Desktop/School/5.5/06-Inquirer_Intro/basic.js",
+		"/C/Users/Dragon/Desktop/Homework/liri-node-app/liri.js",
+		"/C/Users/Dragon/Desktop/School/5.4/bank SOLVED/bank.js",
+		"/C/Users/Dragon/Desktop/School/5.5/geocode.js",
+		"/C/Users/Dragon/Desktop/School/5.5/commandSortUnsolved.js",
+		"/C/Users/Dragon/Desktop/School/5.3/bank SOLVED/bank.js",
+		"/C/Users/Dragon/Desktop/School/5.4/best_things_ever.js",
+		"/C/Users/Dragon/Desktop/School/5.3/calculator solution.js",
+		"/C/Users/Dragon/Desktop/School/5.4/bank.js",
+		"/C/Users/Dragon/Desktop/School/5.4/write.js",
+		"/C/Users/Dragon/Desktop/School/5.4/commandArguments.js",
+		"/C/Users/Dragon/Desktop/School/5.3/parametercheck.js",
+		"/C/Users/Dragon/Desktop/School/5.3/run.js",
+		"/C/Users/Dragon/Desktop/School/5.3/8-Modularization/ess.js",
+		"/C/Users/Dragon/Desktop/School/5.3/calculator.js",
+		"/C/Users/Dragon/Desktop/School/5.3/bands.js",
+		"/C/Users/Dragon/Desktop/School/5.3/9-Bands/runBonus.js",
+		"/C/Users/Dragon/Desktop/School/5.3/ess.js",
+		"/C/Users/Dragon/Desktop/School/5.3/argumentsadd.js",
+		"/C/Users/Dragon/Desktop/School/5.3/calculator2.js",
+		"/C/Users/Dragon/Desktop/School/5.3/8-Modularization/run.js",
+		"/C/Users/Dragon/Desktop/School/app4-5-17.js",
+		"/C/Users/Dragon/Desktop/School/3.4/working-movie-app-solved.html",
+		"/C/Users/Dragon/Desktop/Face/detect.js",
+		"/C/Users/Dragon/Desktop/FaceppSDK.jar",
+		"/C/Users/Dragon/Desktop/Homework/Franken-game/RPS--Multiplayer/index.html",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/Resources/SOLVEDCodersBayWithActiveUserCount/8-codersbay-view.html",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/Resources/SOLVEDCodersBayWithActiveUserCount/logic.js",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/New try/logic.js",
+		"/C/Users/Dragon/Desktop/Homework/Franken-game/rock paper scissors/rps-9.html",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/New try/index.html",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/Resources/07-intropresence/logic.js",
+		"/C/Users/Dragon/Desktop/Homework/RPS--Multiplayer/Resources/07-intropresence/7-countdown-presence.html",
+		"/C/Users/Dragon/Desktop/School/Employee Tracker/Employee-Tracker/index.html",
+		"/C/Users/Dragon/Desktop/School/Employee Tracker/Employee-Tracker/assets/javascript/app.js",
+		"/C/Users/Dragon/Desktop/School/Employee Tracker/app.js",
+		"/C/Users/Dragon/Desktop/School/4.2/5-recentuser-solved.html",
+		"/C/Users/Dragon/Desktop/School/4.3/07-intropresence/logic.js",
+		"/C/Users/Dragon/Desktop/Homework/GifTastic/index.html",
+		"/C/Users/Dragon/Desktop/School/4.2/5-recentuser.html",
+		"/C/Users/Dragon/Desktop/index.html",
+		"/C/Users/Dragon/Desktop/School/4.2/SOLVEDThisIsCodersBay/6-codersbay.html",
+		"/C/Users/Dragon/Desktop/School/4.3/8-codersbay-view.html",
+		"/C/Users/Dragon/Desktop/School/4.3/logic (1).js",
+		"/C/Users/Dragon/Desktop/School/4.2/SOLVEDThisIsCodersBay/logic.js",
+		"/C/Users/Dragon/Desktop/School/4.3/07-intropresence/7-countdown-presence.html",
+		"/C/Users/Dragon/Desktop/Homework/GifTastic/assets/css/style.css",
+		"/C/Users/Dragon/Desktop/School/4.2/6-codersbay.js",
+		"/C/Users/Dragon/Desktop/School/4.2/6-codersbay.html",
+		"/C/Users/Dragon/Desktop/School/4.2/downbutton SOLVED/logic.js",
+		"/C/Users/Dragon/Desktop/School/4.2/4-instructor-do-more-properties.html",
+		"/C/Users/Dragon/Desktop/School/4.2/3-student-do-downbutton.html",
+		"/C/Users/Dragon/Desktop/School/4.2/logic2.js",
+		"/C/Users/Dragon/Desktop/School/4.2/1-instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/Dragon/Desktop/School/4.2/logic.js",
+		"/C/Users/Dragon/Desktop/School/4.2/downbutton SOLVED/3-student-do-downbutton.html",
+		"/C/Users/Dragon/Desktop/School/4.2/toDoList.css",
+		"/C/Users/Dragon/Desktop/School/4.2/toDoList.js",
+		"/C/Users/Dragon/Desktop/School/4.2/toDoList.html",
+		"/C/Users/Dragon/Downloads/1-student-do-todolist-solution.html",
+		"/C/Users/Dragon/Desktop/School/4.1/2-student-do-signin-no-persistence-solution.html",
+		"/C/Users/Dragon/Desktop/School/4.1/3-instructor-do-localstorage.html",
+		"/C/Users/Dragon/Desktop/School/4.1/2-student-do-signin-no-persistence.html",
+		"/C/Users/Dragon/Desktop/School/4.1/1-student-do-todolist-solution.html",
+		"/C/Users/Dragon/Desktop/School/4.1/1-student-do-todolist.html",
+		"/C/Users/Dragon/Desktop/Homework/NY-Times/assets/javascript/app.js",
+		"/C/Users/Dragon/Desktop/School/4.1/NY Times/index.html",
+		"/C/Users/Dragon/Desktop/School/4.1/NY Times/style.css",
+		"/C/Users/Dragon/Desktop/School/4.1/NY Times/basic.js",
+		"/C/Users/Dragon/Desktop/TriviaGame/index.html",
+		"/C/Users/Dragon/Desktop/TriviaGame/assets/javascript/app.js",
+		"/C/Users/Dragon/Desktop/School/3.5/3-dynamic-elements-solution.html",
+		"/C/Users/Dragon/Desktop/NY-Times/assets/javascript/app.js",
+		"/C/Users/Dragon/Desktop/NY-Times/index.html",
+		"/C/Users/Dragon/Desktop/trivia_game_script/trivia/trivia.js",
+		"/C/Users/Dragon/Desktop/School/3.5/4-pausing-gifs-students.html",
+		"/C/Users/Dragon/Desktop/School/3.5/2-button-triggered-ajax-solution.html",
+		"/C/Users/Dragon/Desktop/School/3.5/3-dynamic-elements-students.html",
+		"/C/Users/Dragon/Desktop/School/3.5/2-button-triggered-ajax-students.html",
+		"/C/Users/Dragon/Desktop/School/3.5/01-cat-button-students.html",
+		"/C/Users/Dragon/Desktop/TriviaGame/New practice/index.html",
+		"/C/Users/Dragon/Desktop/TriviaGame/New practice/assets/javascript/app.js",
+		"/C/Users/Dragon/Desktop/School/3.4/click-json-starter.html",
+		"/C/Users/Dragon/Desktop/School/3.4/log-movie-name-starter.html",
+		"/C/Users/Dragon/Desktop/School/3.4/movie-button-layout-easier.html",
+		"/C/Users/Dragon/Desktop/School/3.4/3-ajax-to-html-solution.html",
+		"/C/Users/Dragon/Desktop/School/3.4/2-movie-json-dump.html",
+		"/C/Users/Dragon/Desktop/School/3.4/bujumbura-easier.html",
+		"/C/Users/Dragon/Downloads/single-ajax.html",
+		"/C/Users/Dragon/Desktop/School/3.4/3-ajax-to-html.html",
+		"/C/Users/Dragon/Desktop/School/3.3/1-customer-object.html",
+		"/C/Users/Dragon/Desktop/School/3.3/slideshow_skeleton/slideshow.js",
+		"/C/Users/Dragon/Desktop/School/3.3/slideshow_skeleton/slideshow.html",
+		"/C/Users/Dragon/Desktop/School/3.3/stopwatch_solution/stopwatch-solution.html",
+		"/C/Users/Dragon/Desktop/School/3.3/stopwatch_solution/stopwatchSolution.js",
+		"/C/Users/Dragon/Desktop/School/3.3/stopwatch_skeleton/stopwatch.html",
+		"/C/Users/Dragon/Desktop/School/3.3/stopwatch_skeleton/stopwatch.js",
+		"/C/Users/Dragon/Desktop/week-4-game/index.html",
+		"/C/Users/Dragon/Desktop/week-4-game/assets/javascript/game.js",
+		"/C/Users/Dragon/Desktop/School/3.2/this.html",
+		"/C/Users/Dragon/Downloads/buy-high-sell-low.html",
+		"/C/Users/Dragon/Desktop/School/3.2/coin-flip.html",
+		"/C/Users/Dragon/Desktop/School/3.1/fizzbuzz.html",
+		"/C/Users/Dragon/Desktop/School/3.2/Buy_Low_Sell_High.html",
+		"/C/Users/Dragon/Desktop/School/3.2/Buy_Low_Sell_High.js",
+		"/C/Users/Dragon/Desktop/School/Basic/index.html",
+		"/C/Users/Dragon/Desktop/week-4-game/assets/css/style.css",
+		"/C/Users/Dragon/Desktop/TaysDragon.github.io/assets/css/style.css",
+		"/C/Users/Dragon/Desktop/TaysDragon.github.io/index.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"set",
+			"render",
+			"randomQuestion",
+			"losses",
+			"wins",
+			"CLICKED",
+			"<img class=\"img img-thumbnail\" src=\"http://placehold.it/200x200\">",
+			"\n</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1453,
+								1453
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1449,
+										1452
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1279,
+										1282
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "detect.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										166,
+										167
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.497395833333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

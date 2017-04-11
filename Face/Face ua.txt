@@ -1,0 +1,24 @@
+Forschool80
+mrh_sharon@hotmail.com
+differentrainyday75
+
+
+App	
+FriendChecker	
+
+API Key	
+GGirhQNvV0_CtFgy4IgSwCASYBqV1Yla
+
+API Secret
+u-goCfJWEuKHyhCv5GHRDUtImw-f4uve
+	
+Type	
+Free	
+
+Status	
+Active	
+
+Operation
+Mange
+
+	

@@ -1,0 +1,43 @@
+{
+  "faces1": [
+    {
+      "face_rectangle": {
+        "width": 261,
+        "top": 212,
+        "left": 125,
+        "height": 261
+      },
+      "face_token": "690e09daf21db6a97ffc0952b7ee8e07"
+    }
+  ],
+  "faces2": [
+    {
+      "face_rectangle": {
+        "width": 259,
+        "top": 215,
+        "left": 142,
+        "height": 259
+      },
+      "face_token": "0912ec78f2644ab9da2941084af048db"
+    }
+  ],
+  "time_used": 419,
+  "thresholds": {
+    "1e-3": 65.3,
+    "1e-5": 76.5,
+    "1e-4": 71.8
+  },
+  "confidence": 78.64,
+  "image_id2": "SPedNTNWqgPmupahuTaSZQ==",
+  "image_id1": "uADw4RAdkIsQxhaDMwiqig==",
+  "request_id": "1491317919,683ed86b-8af5-4fbf-a5b9-bfde27a279df"
+}
+
+
+
+take user url and input that and urls we use and send to face++ then look at resulting confidense score.
+display confidense score.
+
+
+
+http://www.businessinsider.com/death-of-the-smartphone-and-what-comes-after-2017-3?utm_content=bufferd58e0&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti

@@ -1,0 +1,40 @@
+    // error messages
+    var messages = {
+        URL_ERROR:   'Invalid URL',
+        LOAD_ERROR:  'Failed to Load',
+        LOADING:     'Loading...',
+        NO_FACE:     'No face detected',
+        NO_CAMERA:   'No camera available'
+ 
+
+//take url from submit button
+$("buttonName").click(function(event) {
+var userPicUrl = $('#userPicUrl').val();
+          console.log(userPicUrl);
+}
+
+//serial killer urls to compare
+var killersUrls =
+url1,
+url2,
+url3;
+
+
+//send to face++ the user url and killers url
+function (compareURLs) {
+    var queryURL = "https://api-us.faceplusplus.com/facepp/v3/compare" + parameters;
+
+        // AJAX call 
+        $.ajax({
+          url: queryURL,
+          method: "POST"
+        }).done(function(response) {
+
+
+          // Creating a div to hold the movie
+          var movieDiv = $("<div class='movie'>");
+//look at the results and pull confidense score
+          // Storing the rating data
+          var rating = response.Rated;
+//timeout
+}
